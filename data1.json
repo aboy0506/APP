@@ -1,9 +1,9 @@
 {
-    "type": "InfoCollection",
-    "infos": 
+    "type": "FeatureCollection",
+    "feature": 
 	[
         {
-            "type": "Info",
+            "type": "Feature",
             "properties": {
                 "id": "5945030094",
                 "name": "德興藥局",
@@ -30,7 +30,7 @@
             }
         },
         {
-            "type": "Info",
+            "type": "Feature",
             "properties": {
                 "id": "5945040036",
                 "name": "黃藥局",
@@ -58,7 +58,7 @@
         }
 		,
         {
-            "type": "Info",
+            "type": "Feature",
             "properties": {
                 "id": "5945040036",
                 "name": "黃藥局",
